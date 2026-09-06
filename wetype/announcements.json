@@ -1,0 +1,20 @@
+{
+  "announcements": [
+    {
+      "id": "2026-09-welcome",
+      "title": "Welcome to WeType",
+      "body": "This is the in-app What's New feed. When there's a new release or a change worth knowing about, a note will appear here — no email, no Discord. You can reopen this any time from the menu-bar icon.",
+      "publishedAt": "2026-09-06T00:00:00Z"
+    },
+    {
+      "id": "2026-09-word-support",
+      "title": "Suggestions now work inside Microsoft Word",
+      "body": "WeType can now read Word's editable text area and place suggestions inside your document. Update to the latest version to get it.",
+      "actionLabel": "See all changes",
+      "actionURL": "https://github.com/AryaanTheLad/wetype/releases",
+      "minVersion": "1.0.1",
+      "kind": "important",
+      "publishedAt": "2026-09-06T12:00:00Z"
+    }
+  ]
+}
