@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>WeType</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Sun, 06 Sep 2026 13:03:17 +0500</pubDate>
+            <link>https://aryaanthelad.github.io/</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://aryaanthelad.github.io/wetype/WeType-1.0.1.zip" length="6311835" type="application/octet-stream" sparkle:edSignature="g+CSr4fnAw3KS6jf2tfPL6drBNN0NopL2VO8sQjjs1Itf+k/b2CO8I9zf6f3SOuS1R7tACAv70WeqKCUoSV0BQ=="/>
+        </item>
+    </channel>
+</rss>
